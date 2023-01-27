@@ -7,5 +7,5 @@ Criei um site para uma transportadora fictícia, que contém uma página inicial
 - A estrutura se deu em forma de linhas e colunas de uma tabela centralizada na página, onde foram inseridos textos, imagens, links e também um formulário.
 - Os textos apresentados, são apenas para fins de marcação de área, não devendo ser considerados seus dizeres e contextos.
 
-# Video de demonstração
+# Video de demonstrando o primeiro projeto
 https://youtu.be/EkX_7FTecfI
